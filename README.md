@@ -1,1 +1,2 @@
-![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
+# gamesense.is theme for znix's panel
+![foxdemo](https://i.imgur.com/snYep3U.png)
